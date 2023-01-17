@@ -1,0 +1,96 @@
+[sakura]
+
+# Colorset 1:
+colorset1_fore=rgb(255,255,255)
+colorset1_back=rgba(46,52,54,0.85)
+colorset1_curs=rgb(100,255,0)
+colorset1_key=1
+
+# Colorset 2:
+colorset2_fore=rgb(192,192,192)
+colorset2_back=rgba(0,0,0,1)
+colorset2_curs=rgb(255,255,255)
+colorset2_key=2
+
+# Colorset 3:
+colorset3_fore=rgb(192,192,192)
+colorset3_back=rgba(0,0,0,1)
+colorset3_curs=rgb(255,255,255)
+colorset3_key=3
+
+# Colorset 4:
+colorset4_fore=rgb(192,192,192)
+colorset4_back=rgba(0,0,0,1)
+colorset4_curs=rgb(255,255,255)
+colorset4_key=4
+
+# Colorset 5:
+colorset5_fore=rgb(192,192,192)
+colorset5_back=rgba(0,0,0,1)
+colorset5_curs=rgb(255,255,255)
+colorset5_key=5
+
+# Colorset 6:
+colorset6_fore=rgb(192,192,192)
+colorset6_back=rgba(0,0,0,1)
+colorset6_curs=rgb(255,255,255)
+colorset6_key=6
+
+last_colorset=1
+scroll_lines=4096
+font=Liberation Mono for Powerline Bold 13
+scrollbar=false
+closebutton=true
+less_questions=false
+disable_numbered_tabswitch=false
+use_fading=false
+
+# Sound:
+urgent_bell=Yes
+audible_bell=Yes
+
+# Cursor:
+blinking_cursor=Yes
+cursor_type=VTE_CURSOR_SHAPE_BLOCK
+
+# Tabs:
+scrollable_tabs=true
+stop_tab_cycling_at_end_tabs=No
+tabs_on_bottom=false
+show_always_first_tab=No
+
+allow_bold=Yes
+word_chars=-,./?%&#_~:
+# Nord = 3
+palette=3
+
+# Accelerators:
+#  68: Win+Ctrl
+#  5:  Shift+Ctrl
+#  76: Win+Alt+Ctrl
+add_tab_accelerator=68
+del_tab_accelerator=68
+switch_tab_accelerator=68
+move_tab_accelerator=76
+copy_accelerator=5
+scrollbar_accelerator=5
+open_url_accelerator=68
+font_size_accelerator=68
+set_tab_name_accelerator=68
+search_accelerator=68
+
+# Hotkeys, to be used with the set accelerator:
+add_tab_key=T
+del_tab_key=W
+prev_tab_key=Left
+next_tab_key=Right
+copy_key=C
+paste_key=V
+scrollbar_key=S
+set_tab_name_key=N
+search_key=F
+increase_font_size_key=plus
+decrease_font_size_key=minus
+fullscreen_key=F11
+set_colorset_accelerator=68
+icon_file=terminal-tango.svg

@@ -1,0 +1,1272 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898"
+      },
+      "expiry": 1658543929559
+    },
+    "/usr/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b7d82981a62c5a9a57afe88797c07df8116076f16b31f67bfb64af788e2938d766989f2ea099755fb5d3e77419d14e76e9a69b9fddaa6894733316ca839ebcb6"
+      },
+      "expiry": 1658543929488
+    },
+    "/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b7d82981a62c5a9a57afe88797c07df8116076f16b31f67bfb64af788e2938d766989f2ea099755fb5d3e77419d14e76e9a69b9fddaa6894733316ca839ebcb6"
+      },
+      "expiry": 1658543929548
+    },
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898"
+      },
+      "expiry": 1658543929549
+    },
+    "/usr/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b"
+      },
+      "expiry": 1658543929546
+    },
+    "/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b"
+      },
+      "expiry": 1658543929562
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "166cafee400074f8c9cf0de201b873d78037517233b5da2fe63226014f1c775d37105e50aaa1e23de2e7fbaba9c7b01a48eb5776dfd9230d93b72581fe9f9f56",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b7d82981a62c5a9a57afe88797c07df8116076f16b31f67bfb64af788e2938d766989f2ea099755fb5d3e77419d14e76e9a69b9fddaa6894733316ca839ebcb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b7d82981a62c5a9a57afe88797c07df8116076f16b31f67bfb64af788e2938d766989f2ea099755fb5d3e77419d14e76e9a69b9fddaa6894733316ca839ebcb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b7d82981a62c5a9a57afe88797c07df8116076f16b31f67bfb64af788e2938d766989f2ea099755fb5d3e77419d14e76e9a69b9fddaa6894733316ca839ebcb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b7d82981a62c5a9a57afe88797c07df8116076f16b31f67bfb64af788e2938d766989f2ea099755fb5d3e77419d14e76e9a69b9fddaa6894733316ca839ebcb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b",
+        "type": "Unknown"
+      }
+    ],
+    "/home/lino/prj/garden-sensor-server/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b"
+      },
+      "expiry": 1658543929566
+    },
+    "/home/lino/prj/garden-sensor-server/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b"
+      },
+      "expiry": 1658543929567
+    },
+    "/home/lino/prj/garden-sensor-server/venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "166cafee400074f8c9cf0de201b873d78037517233b5da2fe63226014f1c775d37105e50aaa1e23de2e7fbaba9c7b01a48eb5776dfd9230d93b72581fe9f9f56"
+      },
+      "expiry": 1658543929725
+    },
+    "PipEnvInformation": [],
+    "/home/lino/prj/garden-sensor-server/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit ('venv': venv)",
+        "hash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b-b09c7c20538633404652b3de1d088c45"
+      },
+      "expiry": 1658543929633
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit",
+        "hash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898-c7f7fc6d394bb85a88cb5e3a6bee6e52"
+      },
+      "expiry": 1658543929636
+    },
+    "/usr/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b-268579d71968a2f4f4e1e2d15c07347f"
+      },
+      "expiry": 1658543929638
+    },
+    "/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit",
+        "hash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898-93ca3ca5c876d0ddd966097361d8c702"
+      },
+      "expiry": 1658543929640
+    },
+    "/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b-cfc8cf16d57a2d4effb5ce7e5190dadf"
+      },
+      "expiry": 1658543929642
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+      "type": "Unknown",
+      "displayName": "Python 3.10.4 64-bit"
+    },
+    "/home/lino/prj/garden-sensor-server/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b",
+        "info": {
+          "architecture": 3,
+          "path": "/home/lino/prj/garden-sensor-server/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.4-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.4-final"
+          },
+          "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+          "fileHash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.10.4 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1658543929708
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.4-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.4-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+          "type": "Unknown",
+          "displayName": "Python 3.10.4 64-bit"
+        }
+      },
+      "expiry": 1658543929712
+    },
+    "/usr/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b",
+          "type": "Unknown",
+          "displayName": "Python 3.9.7 64-bit"
+        }
+      },
+      "expiry": 1658543929714
+    },
+    "/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.4-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.4-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "b51903cc03858f3a251ec7b99fc78d46362644ec292b1214dcb1ce5625ff066149e30084648abb5c30ee64a7fd36ac45e1f29116f286652165679850b8029898",
+          "type": "Unknown",
+          "displayName": "Python 3.10.4 64-bit"
+        }
+      },
+      "expiry": 1658543929717
+    },
+    "/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "8c2505dbb36b4eba7899e281629c0d9c04edf4d1d3432b93b94e7a9ed92ecefa2120704e90b48a7c977875548de973c185ecb9536af84d88509d280176a6491b",
+          "type": "Unknown",
+          "displayName": "Python 3.9.7 64-bit"
+        }
+      },
+      "expiry": 1658543929720
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+      "type": "Unknown",
+      "displayName": "Python 3.10.4 64-bit"
+    },
+    "/home/lino/prj/garden-sensor-server/venv/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "166cafee400074f8c9cf0de201b873d78037517233b5da2fe63226014f1c775d37105e50aaa1e23de2e7fbaba9c7b01a48eb5776dfd9230d93b72581fe9f9f56"
+      },
+      "expiry": 1658543929772
+    },
+    "/home/lino/prj/garden-sensor-server/venv/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit ('venv': venv)",
+        "hash": "166cafee400074f8c9cf0de201b873d78037517233b5da2fe63226014f1c775d37105e50aaa1e23de2e7fbaba9c7b01a48eb5776dfd9230d93b72581fe9f9f56-649f5fe5c2d90d8615486bd3d0b3f027"
+      },
+      "expiry": 1658543929890
+    },
+    "ProposeLSBanner": false,
+    "/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed"
+      },
+      "expiry": 1658544999289
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed"
+      },
+      "expiry": 1658544999311
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit",
+        "hash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed-e3e4580b022b650d5f7f91307e4da36d"
+      },
+      "expiry": 1658544999380
+    },
+    "/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit",
+        "hash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed-163f57ab027ea235c45e6204a20cc27c"
+      },
+      "expiry": 1658544999384
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.4-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.4-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+          "type": "Unknown",
+          "displayName": "Python 3.10.4 64-bit"
+        }
+      },
+      "expiry": 1658544999402
+    },
+    "/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.4-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.4-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "fe95056d49833a26367b872a4188a8bec213fb4c2f4582736a04baa5becd18539eb2f63ed83129910580e7b094499a5326c7b117f274892c77ba1ede5bd76aed",
+          "type": "Unknown",
+          "displayName": "Python 3.10.4 64-bit"
+        }
+      },
+      "expiry": 1658544999412
+    }
+  },
+  "coc-python|/home/lino/prj/garden-sensor-server": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:0f784c813054e3a3da693e8d07841c61": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "166cafee400074f8c9cf0de201b873d78037517233b5da2fe63226014f1c775d37105e50aaa1e23de2e7fbaba9c7b01a48eb5776dfd9230d93b72581fe9f9f56",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:0f784c813054e3a3da693e8d07841c61": [
+      {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "e8faf76a1ecbfd6669c16d9f240d6949fff0a88d51355eedd25a08cb97f01c2dcd8ce754948bbe9552299b02f4df43556800cb5ff7619b7525ce96688de21f0b",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lino/prj/garden-sensor-server/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+        "fileHash": "166cafee400074f8c9cf0de201b873d78037517233b5da2fe63226014f1c775d37105e50aaa1e23de2e7fbaba9c7b01a48eb5776dfd9230d93b72581fe9f9f56",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/lino/prj/garden-sensor-server/venv/bin/python3.10",
+    "autoSelectedWorkspacePythonInterpreter-/home/lino/prj/garden-sensor-server": {
+      "architecture": 3,
+      "path": "/home/lino/prj/garden-sensor-server/venv/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/home/lino/prj/garden-sensor-server/venv",
+      "fileHash": "166cafee400074f8c9cf0de201b873d78037517233b5da2fe63226014f1c775d37105e50aaa1e23de2e7fbaba9c7b01a48eb5776dfd9230d93b72581fe9f9f56",
+      "envName": "venv",
+      "type": "Venv"
+    }
+  },
+  "coc-rust-analyzer|global": {
+    "release": "2023-01-09"
+  }
+}

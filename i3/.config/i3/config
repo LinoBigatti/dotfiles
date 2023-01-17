@@ -1,0 +1,7 @@
+# i3 config file (v4)
+#
+# Please see https://i3wm.org/docs/userguide.html for a complete reference!
+
+set $mod Mod4
+
+include ~/.config/i3/load-with-theme.conf
