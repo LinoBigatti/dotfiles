@@ -9,5 +9,7 @@
     "coc-tsserver": ">=1.10.5",
     "coc-vimlsp": ">=0.12.8",
     "jest-snippets": "https://github.com/andys8/vscode-jest-snippets"
-  }
+  },
+  "disabled": [],
+  "locked": []
 }

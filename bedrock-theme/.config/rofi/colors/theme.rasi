@@ -1,0 +1,16 @@
+/**
+ *
+ * Author : Lino Bigatti
+ * Github : @linobigatti
+ * 
+ * Colors
+ **/
+
+* {
+    background:     #2E3440FF;
+    background-alt: #282B31FF;
+    foreground:     #81A1C1FF;
+    selected:       #FFC32FFF;
+    active:         #98C379FF;
+    urgent:         #BF616AFF;
+}
