@@ -48,7 +48,7 @@ else
 fi
 
 # Rofi CMD
-rofi_cmd() {
+rofi_cmd () {
 	rofi -theme-str "window {width: $win_width;}" \
 		-theme-str "listview {columns: $list_col; lines: $list_row;}" \
 		-theme-str 'textbox-prompt-colon {str: "";}' \
@@ -60,7 +60,7 @@ rofi_cmd() {
 }
 
 # Pass variables to rofi dmenu
-run_rofi() {
+run_rofi () {
 	echo -e "$option_1\n$option_2\n$option_3\n$option_4\n$option_5" | rofi_cmd
 }
 
@@ -127,7 +127,7 @@ shotarea () {
 }
 
 # Execute Command
-run_cmd() {
+run_cmd () {
 	if [[ "$1" == '--opt1' ]]; then
 		shotnow
 	elif [[ "$1" == '--opt2' ]]; then

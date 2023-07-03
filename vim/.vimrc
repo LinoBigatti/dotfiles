@@ -99,7 +99,7 @@ tnoremap <silent> <F7>  <C-\><C-n>:FloatermNew<CR>
 nnoremap <silent> <F8>  :FloatermToggle<CR>
 tnoremap <silent> <F8>  <C-\><C-n>:FloatermToggle<CR>
 nnoremap <silent> <F9>  :call BuildProject()<CR>
-nnoremap <silent> <F10>  :call TestProject()<CR>
+nnoremap <silent> <F10> :call TestProject()<CR>
 nnoremap <silent> <C-h> :FloatermPrev<CR>
 tnoremap <silent> <C-h> <C-\><C-n>:FloatermPrev<CR>
 nnoremap <silent> <C-l> :FloatermNext<CR>
@@ -107,13 +107,13 @@ tnoremap <silent> <C-l> <C-\><C-n>:FloatermNext<CR>
 nnoremap <silent> f     :Fzf<CR>
 nnoremap <silent> <C-f> :Rg<CR>
 
-" Redefine this function on your vimrc to launch a floating terminal with your
+" Redefine this function on your vimprj to launch a floating terminal with your
 " build steps.
 function! BuildProject()
   echo "Error: BuildProject() wasnt redefined. Please add your build steps to .vimprj" 
 endfunction
 
-" Redefine this function on your vimrc to launch a floating terminal with your
+" Redefine this function on your vimprj to launch a floating terminal with your
 " tests.
 function! TestProject()
   echo "Error: TestProject() wasnt redefined. Please add your test setup to .vimprj" 

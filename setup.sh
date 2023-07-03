@@ -12,6 +12,7 @@ if [[ -z "$1" ]]; then
 	echo -e ${BYellow}"\n[*] Available themes:" ${Color_Off}
 	echo -e ${BBlue}"    [-] bedrock" ${Color_Off}
 	echo -e ${BBlue}"    [-] satellite" ${Color_Off}
+	echo -e ${BBlue}"    [-] voyager" ${Color_Off}
 	
 	exit 1
 fi
@@ -19,7 +20,7 @@ fi
 echo -e ${BGreen}"[*] Installing dotfiles..." ${Color_Off}
 
 echo -e ${BBlue}"\n[*] Stowing files..." ${Color_Off}
-stow -R --dotfiles -t $HOME $1-theme i3 bumblebee-status rofi picom redshift sakura vim
+stow -R --dotfiles -t $HOME $1-theme i3 bumblebee-status rofi picom redshift sakura vim zsh
 
 echo -e ${BBlue}"\n[*] Installing fonts..." ${Color_Off}
 if [[ -d "$FONT_DIR" ]]; then
