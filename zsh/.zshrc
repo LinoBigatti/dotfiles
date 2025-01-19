@@ -55,6 +55,7 @@ plugins=(
   z
   zsh-autosuggestions
   zsh-syntax-highlighting
+  calc
   zsh-history-substring-search
 )
 
@@ -94,3 +95,12 @@ bindkey "^[[1;5B" history-substring-search-down
 
 # Disable autocorrect for doas
 alias doas="nocorrect doas"
+
+alias nix="nix --extra-experimental-features \"nix-command flakes\""
+
+export STEAM_COMPAT_CLIENT_INSTALL_PATH=~/.local/share/Steam/steamapps/compatdata
+export STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata
+
+export DEVKITPRO=/opt/devkitpro
+export DEVKITARM=/opt/devkitpro/devkitARM
+export DEVKITPPC=/opt/devkitpro/devkitPPC
