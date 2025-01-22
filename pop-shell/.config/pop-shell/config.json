@@ -1,0 +1,9 @@
+{
+  "float": [
+    {
+      "class": "org.Gnome.loupe",
+    }
+  ],
+  "skiptaskbarhidden": [],
+  "log_on_focus": false
+}
