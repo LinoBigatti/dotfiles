@@ -30,7 +30,6 @@ if dein#load_state('~/.cache/dein')
     call dein#add('neoclide/coc.nvim', { 'merged': 0 })
     call dein#add('honza/vim-snippets')
     call dein#add('airblade/vim-gitgutter')
-    call dein#add('vim-scripts/taglist.vim')
     call dein#add('voldikss/vim-floaterm')
     call dein#add('vim-scripts/dfrankutil')
     call dein#add('vim-scripts/vimprj')
@@ -263,11 +262,14 @@ nmap <leader>qf  <Plug>(coc-fix-current)
 " Run the Code Lens action on the current line.
 nmap <leader>cl  <Plug>(coc-codelens-action)
 
-" Airline integration
-let g:airline#extensions#coc#enabled = 1
+" Set style for Types hint
+hi CocInlayHint guibg=Black guifg=Teal ctermbg=0 ctermfg=6
 
 " CoC menu colors
 hi Pmenu term=reverse ctermbg=8 ctermfg=7
+
+" Airline integration
+let g:airline#extensions#coc#enabled = 1
 
 " Use <C-j> and <C-k> to navigate diagnostics
 " Use `:CocDiagnostics` to get all diagnostics of current buffer in location list.

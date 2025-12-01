@@ -1,4 +1,4 @@
-. "$HOME/.nix-profile/etc/profile.d/hm-session-vars.sh"
+# . "$HOME/.nix-profile/etc/profile.d/hm-session-vars.sh"
 
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
@@ -78,11 +78,15 @@ case ":$PATH:" in
 esac
 # pnpm end
 
+# npm config
+export NPM_CONFIG_PREFIX=$HOME/.local/
+export PATH="/home/$USER/go/bin:/home/$USER/.local/bin:$NPM_CONFIG_PREFIX/bin:$PATH"
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.config/.p10k.zsh ]] || source ~/.config/.p10k.zsh
 
 # Autosuggestion config 
-ZSH_AUTOSUGGEST_STRATEGY=(history completion)
+ZSH_AUTOSUGGEST_STRATEGY=(completion history)
 
 bindkey "\t"  forward-word
 bindkey "^[[Z" autosuggest-accept
@@ -97,7 +101,7 @@ bindkey "^[[1;5B" history-substring-search-down
 # Disable autocorrect for doas
 alias doas="nocorrect doas"
 
-alias nix="nix --extra-experimental-features \"nix-command flakes\""
+#alias nix="nix --extra-experimental-features \"nix-command flakes\""
 
 export STEAM_COMPAT_CLIENT_INSTALL_PATH=~/.local/share/Steam/steamapps/compatdata
 export STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata

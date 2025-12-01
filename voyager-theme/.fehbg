@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/home/lino/.cache/betterlockscreen/current/wall_dimblur.png' 
+feh --no-fehbg --bg-fill '/home/lino/prj/dotfiles/voyager-theme/backgrounds/shimeji.jpg' 
